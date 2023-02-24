@@ -77,3 +77,8 @@
 	path = TRESCLOUD/web
 	url = git@github.com:TRESCLOUD/web.git
 	branch = 15.0
+
+[submodule "odoo-clientes-especificos/confetex"]
+	path = odoo-clientes-especificos/confetex
+	url = git@github.com:TRESCLOUD/odoo-clientes-especificos.git
+	branch = 15.0
